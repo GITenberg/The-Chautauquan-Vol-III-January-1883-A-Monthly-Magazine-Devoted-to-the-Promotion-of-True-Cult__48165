@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Chautauquan, Vol. III, January 1883
 
   A Monthly Magazine Devoted to the Promotion of True Culture.
